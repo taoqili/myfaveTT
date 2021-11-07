@@ -1,0 +1,73 @@
+:root {
+	--myfaveTT-width: 390px;
+}
+
+
+
+body.pushed-by-myfaveTT #__next, 
+body.pushed-by-myfaveTT #__next .header-container,
+body.pushed-by-myfaveTT #app,
+body.pushed-by-myfaveTT #app div[class*='DivHeaderContainer'] {
+	border-left: var(--myfaveTT-width) solid transparent;
+}
+
+
+
+@media (max-width: 1540px)  {
+	body.pushed-by-myfaveTT #__next .main-body,
+	body.pushed-by-myfaveTT #app div[class*='DivBodyContainer'] {
+		max-width: calc(100vw - var(--myfaveTT-width));
+	}
+}
+
+
+@media (max-width: 1150px) {
+	body.pushed-by-myfaveTT div[class*='DivSearchFormContainer'],
+	body.pushed-by-myfaveTT .search-container {
+		display: none;
+	}
+}
+
+
+
+
+aside#myfaveTT-container {
+	display: grid;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: var(--myfaveTT-width);
+	height: 100vh;
+	z-index: 1001;
+}
+
+
+iframe#myfaveTT {
+	place-self: stretch;
+	border: none;
+}
+
+
+aside#myfaveTT-container #dropbox {
+	position: absolute;
+	top: 155px;
+	left: 125px;
+	display: grid;
+	place-items: center;
+	width: 129px;
+	height: 127px;
+	border-radius: 28px;
+	border: 4px dashed #666;
+	background-color: rgba(255, 255, 255, 4%);
+}
+
+aside#myfaveTT-container #dropbox svg {
+	height: 27px;
+	fill: #777;
+	pointer-events: none;
+}
+aside#myfaveTT-container #dropbox.dragging-over {
+	background-color: rgba(79, 168, 83, 0.2);
+	border-color: rgba(78, 151, 91, 0.7);
+}
+
