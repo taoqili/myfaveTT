@@ -2,7 +2,7 @@ Here are the actual files that go into the chrome extension [myfaveTT](https://c
 
 ## To install via the Chrome Web Store (recommended):
 
-See [myfavett.com](https://myfavett.com/)
+See [myfavett.com](https://myfavett.com/).
 
 ## If you want to install from here:
 
