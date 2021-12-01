@@ -1,1 +1,1 @@
-chrome.runtime.onInstalled.addListener((({reason:t})=>{"install"===t&&chrome.tabs.create({url:"https://ui.myfavett.com?route=on-install"})}));
+chrome.runtime.onInstalled.addListener((({reason:t})=>{"install"===t&&chrome.tabs.create({url:"https://ui.myfavett.com?route=on-install"})})),chrome.action.onClicked.addListener((()=>{chrome.tabs.create({url:"https://www.tiktok.com"})}));
