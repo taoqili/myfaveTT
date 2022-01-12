@@ -1,12 +1,14 @@
-A Chrome extension to export all your Liked❤️ videos from tiktok into a local mp4 archive. 
+**A Chrome extension to export all your Liked❤️ videos from tiktok into a local mp4 archive.**
 
-It can also export all videos from people you're following.
+**It can also export all videos from people you're following.**
 
 ### Install:
 
-- To download all your ❤️ Likes, install the chrome extension [myfaveTT](https://chrome.google.com/webstore/detail/myfavett/gmajiifkcmjkehmngbopoobeplhoegad).
-- In addition, if you want to download all videos from people you follow, install the chrome extension [myfaveTT supplement](https://chrome.google.com/webstore/detail/myfavett-supplement/dlcakmecakodcebofdinjmalkdoekkmc) too.
-- If you want to download all videos from a particular user, just follow that user.
+To download all your ❤️ Likes, install the chrome extension [myfaveTT](https://chrome.google.com/webstore/detail/myfavett/gmajiifkcmjkehmngbopoobeplhoegad).
+
+> In addition, if you want to download all videos from people you follow, install the chrome extension [myfaveTT supplement](https://chrome.google.com/webstore/detail/myfavett-supplement/dlcakmecakodcebofdinjmalkdoekkmc) too.
+
+> Therefore, you can download all videos from any particular user, if you have followed that user.
 
 ### Use:
 Go to tiktok.com and sign in, the extension will appear in a sidebar, just follow instructions and pick a folder to store all the mp4 files.
