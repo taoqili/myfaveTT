@@ -1,13 +1,21 @@
-Here are the actual files that go into the chrome extension [myfaveTT](https://chrome.google.com/webstore/detail/myfavett/gmajiifkcmjkehmngbopoobeplhoegad).
+A Chrome extension to export all your Liked❤️ videos from tiktok into a local mp4 archive. 
 
-## To install via the Chrome Web Store (recommended):
+It can also export all videos from people you're following.
 
-See [myfavett.com](https://myfavett.com/).
+### Install:
 
-## If you want to install from here:
+- To download all your ❤️ Likes, install the chrome extension [myfaveTT](https://chrome.google.com/webstore/detail/myfavett/gmajiifkcmjkehmngbopoobeplhoegad).
+- In addition, if you want to download all videos from people you follow, install the chrome extension [myfaveTT supplement](https://chrome.google.com/webstore/detail/myfavett-supplement/dlcakmecakodcebofdinjmalkdoekkmc) too.
+- If you want to download all videos from a particular user, just follow that user.
 
-1. go to [releases](https://github.com/ZYinMD/myfaveTT/releases) and pick a version, download the zip, unzip it.
-3. visit `chrome://extensions` in chrome, turn on "Developer mode" on the top right, then click "Load unpacked".
-4. choose the folder you just unzipped.
+### Use:
+Go to tiktok.com and sign in, the extension will appear in a sidebar, just follow instructions and pick a folder to store all the mp4 files.
 
-(Normally there's no reason to install this way - it can't auto-update, and has no other advantages. )
+### Change log:
+See [releases](https://github.com/Zeeingsoft/myfaveTT/releases).
+
+### Screenshots:
+
+![1](https://user-images.githubusercontent.com/91853822/149070498-a0c7e65d-e772-4273-b1e6-5e0b3976410b.png)
+![2](https://user-images.githubusercontent.com/91853822/149070662-a2347d08-083d-479e-9e58-96fdabce319b.png)
+![3](https://user-images.githubusercontent.com/91853822/149070669-e2932dfe-4c3d-4864-9bec-5c67714f664e.png)
