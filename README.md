@@ -6,9 +6,9 @@
 
 To download all your ❤️ Likes, install the chrome extension [myfaveTT](https://chrome.google.com/webstore/detail/myfavett/gmajiifkcmjkehmngbopoobeplhoegad).
 
-> In addition, if you want to download all videos from people you follow, install the chrome extension [myfaveTT supplement](https://chrome.google.com/webstore/detail/myfavett-supplement/dlcakmecakodcebofdinjmalkdoekkmc) too.
+In addition, if you want to download all videos from people you follow, install the chrome extension [myfaveTT supplement](https://chrome.google.com/webstore/detail/myfavett-supplement/dlcakmecakodcebofdinjmalkdoekkmc) too.
 
-> Therefore, you can download all videos from any particular user, if you have followed that user.
+> Therefore you can download all videos from any particular user, if you have followed that user.
 
 ### Use:
 Go to tiktok.com and sign in, the extension will appear in a sidebar, just follow instructions and pick a folder to store all the mp4 files.
